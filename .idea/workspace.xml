@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <first_editor relative-caret-position="46">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -108,16 +108,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566993684813</updated>
-      <workItem from="1566993686600" duration="3544000" />
+      <workItem from="1566993686600" duration="4706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3544000" />
+    <option name="totallyTimeSpent" value="4706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -194,8 +193,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <first_editor relative-caret-position="46">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
